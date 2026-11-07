@@ -1,0 +1,12 @@
+# Google Colab install list (torch is preinstalled on Colab GPU runtimes; do not reinstall it)
+langchain>=1.4.9
+langgraph>=1.2
+langchain-mcp-adapters>=0.3.2
+mcp>=1.30.0
+python-dotenv>=1.2.4
+transformers>=4.56
+accelerate>=1.0
+bitsandbytes>=0.45
+huggingface_hub>=0.30
+numpy
+scikit-learn
